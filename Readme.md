@@ -1,17 +1,3 @@
-<!-- default file list -->
-*Files to look at*:
+# This example is obsolete
 
-<!-- default file list end -->
-# dxList - How to change the selected item color
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4807/)**
-<!-- run online end -->
-
-
-<p>To implement this task,  do the following:</p><br />
-<p>1. Define the Item template and wrap the template content with a Div element;</p><p>2. Apply a corresponding color to your Div based on your requirements;</p><p>3. Handle the Div click event to change the color of the selected item;</p><p>4. Define the selected item id as an observable value and configure it based on the selected item.</p><p><strong>See also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E4809">dxList - How to bind the style property to the data source field</a></p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
